@@ -22,15 +22,19 @@
 ### Config Setup
 ---
 **The number of wins before the program halts, -1 never ends**
+
 required_wins = -1
 
 **Path to Tesseract install**
+
 tesseract_path = C:\Program Files\Tesseract-OCR\tesseract.exe
 
 **Deck name that will be automatically selected**
+
 deck_name = Optimized
 
 **Display scale - Leave at 1 if monitors are all the same resoultion, otherwise look at 'Display Scaling for multiple displays'**
+
 display_scale = 1
 
 [FFTriadBuddy]: <https://github.com/MgAl2O4/FFTriadBuddy>
