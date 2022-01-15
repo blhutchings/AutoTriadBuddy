@@ -4,6 +4,7 @@
 
 ### Usage
 ---
+- **Download entire project file**
 - **Unzip venv.zip**
 - **Setup config and read requirements and notes**, open FFXIV and find NPC to play with. Navigate to the menu box with "Triple Triad Challenge, Small Talk, Nothing, etc...". You can now start run.bat
 
