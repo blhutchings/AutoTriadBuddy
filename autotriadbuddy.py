@@ -152,11 +152,13 @@ def main():
 # Game window must be maximized
 # returns True if valid window, false if not
 def valid_window(hwnd):
-    tup = win32gui.GetWindowPlacement(hwnd)
-    if tup[1] == win32con.SW_SHOWMAXIMIZED: #and hwnd == win32gui.GetForegroundWindow():
-        return True
-    else:
-        return False
+    return True
+
+    #tup = win32gui.GetWindowPlacement(hwnd)
+    #if tup[1] == win32con.SW_SHOWMAXIMIZED: #and hwnd == win32gui.GetForegroundWindow():
+    #    return True
+    #else:
+    #    return False
 
 def left_click():
     win32api.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN, 0, 0)

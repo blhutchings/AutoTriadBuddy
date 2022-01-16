@@ -13,8 +13,8 @@
 ### Requirements
 ---
 - **Must use Dark Theme ingame**
-- **Game must be maximized (Windowed or Fullscreen)**
-- [FFTriadBuddy] or Dalumud Plugin - Draws outlines around card and optimal location
+- **Should be Windowed Maximized or Fullscreen. If the window resolution is too small, text might not be detected**
+- [FFTriadBuddy] or Dalamud Plugin - Draws outlines around card and optimal location
 - [Tesseract 5.0] - Used to detect button text and results of game
 
 ### Config Setup
@@ -28,7 +28,7 @@ tesseract_path = C:\Program Files\Tesseract-OCR\tesseract.exe
 **Deck name that will be automatically selected**
 deck_name = Optimized
 
-**Display scale - Leave at 1 if monitors are all the same resoultion, otherwise look at 'Display Scaling for multiple displays'**
+**Display scale - Leave at 1 if monitors are all the same resolution, otherwise look at 'Display Scaling for multiple displays'**
 display_scale = 1
 
 [FFTriadBuddy]: <https://github.com/MgAl2O4/FFTriadBuddy>
