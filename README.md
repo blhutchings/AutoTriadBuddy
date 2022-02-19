@@ -8,16 +8,15 @@
 - **Unzip, setup config, then read requirements and notes**
 - Open FFXIV and find NPC to play with. Navigate to the menu box with "Triple Triad Challenge, Small Talk, Nothing, etc...". You can now start autotriadbuddy.exe
 
-### Notes
----
-- This program moves and controls your mouse. Do not move your mouse during menu navigation as it might break. **Moving the mouse while the Triple triad game is playing is OK, otherwise don't.**
-
-### Requirements
+### Requirements & Notes
 ---
 - **Must use Dark Theme ingame**
 - **Game must a decent resolution, tesseract might fail to detect words if too small*
 - [FFTriadBuddy] or Dalumud Plugin - Draws outlines around card and optimal location
 - [Tesseract 5.0] - Used to detect button text and results of game
+- 
+- This program moves and controls your mouse. Do not move your mouse during menu navigation as it might break. **Moving the mouse while the Triple triad game is playing is OK, otherwise don't.**
+
 
 ### Config Setup
 ---
