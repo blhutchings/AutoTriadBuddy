@@ -4,9 +4,8 @@
 
 ### Usage
 ---
-- **Download entire project file**
-- **Unzip venv.zip, don't have it embedded within another folder called venv (venv\venv\)**
-- **Setup config and read requirements and notes**, open FFXIV and find NPC to play with. Navigate to the menu box with "Triple Triad Challenge, Small Talk, Nothing, etc...". You can now start run.bat
+- **Download **
+- **Setup config and read requirements and notes**, open FFXIV and find NPC to play with. Navigate to the menu box with "Triple Triad Challenge, Small Talk, Nothing, etc...". You can now start autotriadbuddy.exe
 
 ### Notes
 ---
@@ -15,7 +14,7 @@
 ### Requirements
 ---
 - **Must use Dark Theme ingame**
-- **Game must be maximized (Windowed or Fullscreen)**
+- **Game must a decent resolution, tesseract might fail to detect words if too small*
 - [FFTriadBuddy] or Dalumud Plugin - Draws outlines around card and optimal location
 - [Tesseract 5.0] - Used to detect button text and results of game
 
