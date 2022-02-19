@@ -5,7 +5,7 @@
 ### Download
 ---
 [AutoTriadBuddy.zip]
----
+
 
 ### Usage
 ---
