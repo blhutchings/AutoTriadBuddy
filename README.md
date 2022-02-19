@@ -2,6 +2,11 @@
 - Uses FFTriadBuddy to calculate what cards to be played and uses OpenCV image processing to calcuate where to move cards.
 - Uses Tesseract OCR to find menu text which allows for a closed loop
 
+### Download
+---
+[AutoTriadBuddy.zip] (https://github.com/blhutchings/AutoTriadBuddy/raw/master/AutoTriadBuddy-1.0.zip)
+---
+
 ### Usage
 ---
 - **Download **
