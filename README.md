@@ -4,7 +4,7 @@
 
 ### Download
 ---
-[AutoTriadBuddy.zip] (https://github.com/blhutchings/AutoTriadBuddy/raw/master/AutoTriadBuddy-1.0.zip)
+[AutoTriadBuddy.zip]
 ---
 
 ### Usage
@@ -43,6 +43,7 @@ display_scale = 1
 
 [FFTriadBuddy]: <https://github.com/MgAl2O4/FFTriadBuddy>
 [Tesseract 5.0]: <https://github.com/UB-Mannheim/tesseract/wiki>
+[AutoTriadBuddy.zip]: <https://github.com/blhutchings/AutoTriadBuddy/raw/master/AutoTriadBuddy-1.0.zip>
 
 ### 'Display Scaling' for different resolution multiple displays
 ---
