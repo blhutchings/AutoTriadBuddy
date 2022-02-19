@@ -2,15 +2,11 @@
 - Uses FFTriadBuddy to calculate what cards to be played and uses OpenCV image processing to calcuate where to move cards.
 - Uses Tesseract OCR to find menu text which allows for a closed loop
 
-### Download
+### Download & Usage
 ---
-[AutoTriadBuddy.zip]
-
-
-### Usage
----
-- **Download **
-- **Setup config and read requirements and notes**, open FFXIV and find NPC to play with. Navigate to the menu box with "Triple Triad Challenge, Small Talk, Nothing, etc...". You can now start autotriadbuddy.exe
+- Download: [AutoTriadBuddy.zip]
+- **Unzip, setup config, then read requirements and notes**
+- Open FFXIV and find NPC to play with. Navigate to the menu box with "Triple Triad Challenge, Small Talk, Nothing, etc...". You can now start autotriadbuddy.exe
 
 ### Notes
 ---
