@@ -1,5 +1,0 @@
-[Required]
-required_wins = -1
-tesseract_path = C:\Program Files\Tesseract-OCR\tesseract.exe
-deck_name = Optimized
-display_scale = 1
