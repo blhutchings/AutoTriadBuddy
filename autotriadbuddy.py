@@ -27,8 +27,6 @@ VISUALIZE = False
 
 # FFXIV Game Window Info
 APP_NAME = 'FINAL FANTASY XIV'
-APP_CLASS = 'FFXIVGAME'  # win32gui.GetClassName
-win_hwnd = win32gui.FindWindow(APP_CLASS, APP_NAME)  # FFXIV Window Handle
 
 # Global variables
 PROCESSOR = triadbuddy.AutoTriadBuddy(vision.THEME_DARK, 0.5)  # Class instance to process frames
@@ -65,7 +63,9 @@ def main():
         # Each Frame
         while True:
             start_time = time.time()
-            win_hwnd = win32gui.FindWindow(APP_CLASS, APP_NAME)
+
+            win_hwnd = win32gui.FindWindow(None, APP_NAME)
+
 
             # If window does not exist, attempt to find it
             if win_hwnd == 0:
